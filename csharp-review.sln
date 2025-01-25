@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POO", "POO", "{9F0AEC67-796
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "POO\Properties\Properties.csproj", "{F04BB2BA-10B3-4AC2-87B3-8274C47D2FD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "POO\Inheritance\Inheritance.csproj", "{4C716EA6-5B52-4A59-A1E8-0399FDB6E389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{F04BB2BA-10B3-4AC2-87B3-8274C47D2FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F04BB2BA-10B3-4AC2-87B3-8274C47D2FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F04BB2BA-10B3-4AC2-87B3-8274C47D2FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C716EA6-5B52-4A59-A1E8-0399FDB6E389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C716EA6-5B52-4A59-A1E8-0399FDB6E389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C716EA6-5B52-4A59-A1E8-0399FDB6E389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C716EA6-5B52-4A59-A1E8-0399FDB6E389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +36,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D528D564-26CE-484E-B1FD-AA63FF27A494} = {9F0AEC67-796E-4F03-B530-4A0928FD1A61}
 		{F04BB2BA-10B3-4AC2-87B3-8274C47D2FD8} = {9F0AEC67-796E-4F03-B530-4A0928FD1A61}
+		{4C716EA6-5B52-4A59-A1E8-0399FDB6E389} = {9F0AEC67-796E-4F03-B530-4A0928FD1A61}
 	EndGlobalSection
 EndGlobal
